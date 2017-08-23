@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     atfwd \
     CallStatistics \
-    CarrierEntitlement \
+    Entitlement \
     CarrierServices \
     CNEService \
     ConnMO \
@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
     DMService \
     GCS \
     HiddenMenu \
-    HotwordEnrollment \
+    HotwordEnrollmentWCD9330 \
     qcrilmsgtunnel \
     SprintDM
 
